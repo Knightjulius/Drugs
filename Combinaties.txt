@@ -1,3 +1,7 @@
 Comb1 = MyD88 + TRIF
 Comb2 = IKKGamma + TBK1
 Comb3 = TRAF6 + TRIF
+Comb4 = IKK + MAPK
+
+
+T1 = TAK1 Activates MAPK + TAK1 Phosphorylates IKK
