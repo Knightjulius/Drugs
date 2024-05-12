@@ -1,0 +1,3 @@
+Comb1 = MyD88 + TRIF
+Comb2 = IKKGamma + TBK1
+Comb3 = TRAF6 + TRIF
